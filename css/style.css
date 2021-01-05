@@ -133,4 +133,13 @@ body{
 .s2right p{
     color: darkgray;
 }
+/* sec2 end */
+.footer{
+    background-color: black;
+    padding: 10px;
+}
+.footer h4{
+    text-align: center;
+    color: white;
+}
 
