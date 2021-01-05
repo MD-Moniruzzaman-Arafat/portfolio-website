@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.sec0{
+    background-image: url(../img/top-banner.png);
+    height: 597px;
+    background-repeat: no-repeat;
+}
+.s0left{
+    float: left;
+    width: 40%;
+    margin-top: 50px;
+    padding-left: 100px;
+}
+.s0left h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: orange;
+}
+.s0left p{
+    margin-top: 30px;
+    color: darkgray;
+    margin-bottom: 20px;
+}
+.s0left a{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(43deg, rgb(255, 60, 0), rgba(255, 81, 0, 0.692));
+    border-radius: 5px;
+    color: #ffffff;
+}
+.s0right{
+    float: left;
+    width: 40%;
+    margin-left: 4%;
+    margin-top: 50px;
+}
+.s0right img{
+    width: 100%;
+}
+/* sec0 end */
+.sec1{
+    background-image: url(../img/dream-bg.png);
+    height: 590px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.s1left{
+    float: left;
+    width: 40%;
+    margin-top: 50px;
+    padding-left: 100px;
+}
+.s1left img{
+    width: 100%;
+}
+.s1right{
+    float: left;
+    width: 40%;
+    margin-top: 50px;
+    padding-left: 4%;
+}
+.s1right h2{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.s1right h4{
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+.s1right p{
+    color: darkgray;
+    margin-bottom: 20px;
+}
+.s1right a{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(43deg, rgb(255, 60, 0), rgba(255, 81, 0, 0.692));
+    border-radius: 5px;
+    color: #ffffff;
+}
+/* sec1 end */
+.sec2{
+    height: 400px;
+    background-image: url(../img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.s2left{
+    float: left;
+    width: 35%;
+    margin-left: 100px;
+    height: 300px;
+    box-shadow: 3px 2px 11px grey;
+    padding: 30px;
+    border-image: linear-gradient(salmon, orange);
+    border-left: 7px solid;
+    border-image-slice: 1;
+
+}
+.s2left h2{
+    margin-bottom: 20px;
+}
+.s2left h4{
+    margin-bottom: 20px;
+}
+.s2left p{
+    color: darkgray;
+}
+.s2right{
+    float: left;
+    width: 35%;
+    margin-left: 60px;
+    height: 300px;
+    box-shadow: 3px 2px 11px grey;
+    padding: 30px;
+    border-image: linear-gradient(blue, darkblue);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+.s2right h2{
+    margin-bottom: 20px;
+}
+.s2right h4{
+    margin-bottom: 20px;
+}
+.s2right p{
+    color: darkgray;
+}
+
